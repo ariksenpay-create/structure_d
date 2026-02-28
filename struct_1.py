@@ -17,3 +17,4 @@ else:
 end_time = time.time()
 execution_time = end_time - start_time
 print(f"Время выполнения: {execution_time} секунд")
+
